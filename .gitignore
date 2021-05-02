@@ -1,0 +1,6 @@
+.env
+__pycache__/*
+migrations/
+.venv
+.__pycache__
+.migrations
